@@ -37,7 +37,7 @@ Open source is at the heart of innovation, and I am eager to make meaningful con
 Feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/dhruv-pahuja-658934272/)
-- [Email](mailto:dhruvpahuja013@gmail.com)
+- [Email](dhruvpahuja013@gmail.com)
 
 Let's collaborate and create something amazing together!
 
