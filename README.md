@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Dhruv-pahuja/dhruv-pahuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm Dhruv Pahuja, a passionate and driven individual currently pursuing my studies at Chandigarh Engineering College in the field of Computer Science. My journey in CSE has been both exciting and enlightening, and I'm constantly seeking to expand my knowledge and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+
+At present, I am delving into:
+
+- React Js
+- Next Js
+- Typescript
+- DSA in C++
+
+I believe that continuous learning and staying updated with the latest advancements is crucial in our ever-evolving tech world.
+
+## Future Goals
+
+Looking ahead, I aim to:
+
+- Master Full Stack Web Development
+- Contribute to significant open-source projects
+- Collaborate with like-minded individuals on innovative and impactful projects
+- Explore AI-ML,DevOps etc..
+
+## Open Source Contributions
+
+Open source is at the heart of innovation, and I am eager to make meaningful contributions to this vibrant community. By sharing my skills and collaborating with others, I hope to:
+
+- Solve real-world problems through code
+- Learn from experienced developers
+- Give back to the community that has given me so much
+
+## Get in Touch
+
+Feel free to connect with me on:
+
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dhruv-pahuja-658934272/))
+- [Email](mailto:dhruvpahuja013@gmail.com)
+
+Let's collaborate and create something amazing together!
+
+---
+
+Thank you for visiting my GitHub profile! 🚀
