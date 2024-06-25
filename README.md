@@ -19,7 +19,7 @@ I believe that continuous learning and staying updated with the latest advanceme
 
 Looking ahead, I aim to:
 
-- Master Full Stack Web Development
+- Master Full Stack Web Development and DSA in C++
 - Contribute to significant open-source projects
 - Collaborate with like-minded individuals on innovative and impactful projects
 - Explore AI-ML,DevOps etc..
@@ -36,7 +36,7 @@ Open source is at the heart of innovation, and I am eager to make meaningful con
 
 Feel free to connect with me on:
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dhruv-pahuja-658934272/))
+- [LinkedIn](https://www.linkedin.com/in/dhruv-pahuja-658934272/)
 - [Email](mailto:dhruvpahuja013@gmail.com)
 
 Let's collaborate and create something amazing together!
