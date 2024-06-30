@@ -22,6 +22,7 @@ Looking ahead, I aim to:
 - Master Full Stack Web Development and DSA in C++
 - Contribute to significant open-source projects
 - Collaborate with like-minded individuals on innovative and impactful projects
+- Freelancing some Projects 
 - Explore AI-ML,DevOps etc..
 
 ## Open Source Contributions
