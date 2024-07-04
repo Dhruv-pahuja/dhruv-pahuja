@@ -15,6 +15,8 @@ At present, I am delving into:
 
 I believe that continuous learning and staying updated with the latest advancements is crucial in our ever-evolving tech world.
 
+#(I also have some experience in backend with NodeJs, ExpressJs and MongoDB) 
+
 ## Future Goals
 
 Looking ahead, I aim to:
