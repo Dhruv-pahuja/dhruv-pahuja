@@ -9,7 +9,6 @@ I'm Dhruv Pahuja, a passionate and driven individual currently pursuing my studi
 At present, I am delving into:
 
 - React Js
-- Next Js
 - Typescript
 - DSA in C++
 
