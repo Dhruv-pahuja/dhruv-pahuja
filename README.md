@@ -10,6 +10,7 @@ At present, I am delving into:
 
 - React Js
 - Typescript
+- Express Js
 - DSA in C++
 
 I believe that continuous learning and staying updated with the latest advancements is crucial in our ever-evolving tech world.
