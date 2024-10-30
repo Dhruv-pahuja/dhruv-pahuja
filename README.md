@@ -25,6 +25,15 @@ Here are some of the technologies I've been honing:
 
 ---
 
+## 🌟 Badges
+
+### API Fundamentals Badge
+I'm excited to share my latest achievement – the API Fundamentals Badge! 🏆
+
+[![API Fundamentals Badge](https://badgr.io/public/assertions/S2CaGUflQoyHpiRr5etaig/image)](https://api.badgr.io/public/assertions/S2CaGUflQoyHpiRr5etaig?identity__email=dhruvpahuja013@gmail.com)
+
+---
+
 ## 🎯 Future Goals
 
 Looking ahead, I aim to:
@@ -65,7 +74,6 @@ Feel free to connect with me on:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-pahuja-658934272/)
 
 Email: dhruvpahuja013@gmail.com
-
 
 Let's collaborate and create something amazing together!
 
