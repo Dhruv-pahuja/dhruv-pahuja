@@ -27,11 +27,15 @@ Here are some of the technologies I've been honing:
 
 ## 🌟 Badges
 
-### API Fundamentals Badge
-I'm excited to share my latest achievement – the API Fundamentals Badge! 🏆
-
-[![API Fundamentals Badge](https://badgr.io/public/assertions/S2CaGUflQoyHpiRr5etaig/image)](https://api.badgr.io/public/assertions/S2CaGUflQoyHpiRr5etaig?identity__email=dhruvpahuja013@gmail.com)
-
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
 ---
 
 ## 🎯 Future Goals
