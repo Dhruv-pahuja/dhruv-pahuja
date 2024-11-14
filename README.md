@@ -22,6 +22,9 @@ Here are some of the technologies I've been honing:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-292929?logo=vercel&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-django-darkgreen?logo=django&logoColor=white&style=for-the-badge)
+![Bootstraps](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstraps-5.3&logoColor=white&style=for-the-badge)
+
 
 ---
 
