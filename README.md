@@ -78,7 +78,7 @@ I participated in Hacktoberfest 2024 and earned this badge! 🎉
 
 Feel free to connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-pahuja-658934272/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DhruvPahuja013/)
 
 Email: dhruvpahuja013@gmail.com
 
