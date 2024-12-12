@@ -28,32 +28,6 @@ Here are some of the technologies I've been honing:
 
 ---
 
-## 🌟 Badges
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
----
-
-## 🎯 Future Goals
-
-Looking ahead, I aim to:
-
-- Master **Full Stack Web Development** and **DSA in C++**
-- Contribute to **significant open-source projects**
-- Collaborate with like-minded individuals on **innovative and impactful projects**
-- Take on **freelance** opportunities
-- Participate in and crack **Smart India Hackathons** and other competitions
-- Explore **AI-ML**, **DevOps**, and other exciting fields
-
----
-
 ## 🌟 Open Source Contributions
 
 Open source is at the heart of innovation, and I am eager to make meaningful contributions to this vibrant community. By sharing my skills and collaborating with others, I hope to:
@@ -68,6 +42,36 @@ I participated in Hacktoberfest 2024 and earned this badge! 🎉
 [![An image of @dhruvpahuja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvpahuja)](https://holopin.io/@dhruvpahuja)
 
 ---
+
+## 🌟 Badges
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
+---
+
+
+
+
+## 🎯 Future Goals
+
+Looking ahead, I aim to:
+
+- Master **Full Stack Web Development** and **DSA in C++**
+- Contribute to **significant open-source projects**
+- Collaborate with like-minded individuals on **innovative and impactful projects**
+- Take on **freelance** opportunities
+- Participate in and crack **Smart India Hackathons** and other competitions
+- Explore **AI-ML**, **DevOps**, and other exciting fields
+
+---
+
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Pahuja&layout=compact&theme=radical)
